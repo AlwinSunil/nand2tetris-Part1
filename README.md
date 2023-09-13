@@ -35,3 +35,16 @@
 
 <img width="960" alt="dmux" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/95ce8475-5b26-421e-ac7a-5c3dcc27d460">
 
+<br />
+
+## Project 2.1
+### HalfAdder CHIP
+
+<img width="960" alt="HalfAdder" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/c996776e-20f8-42ba-8046-982122d427fa">
+
+
+### FullAdder CHIP
+
+<img width="960" alt="FullAdder" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/43ca442d-f015-4028-8c2f-67a9d8ce0d32">
+
+
