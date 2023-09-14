@@ -47,4 +47,17 @@
 
 <img width="960" alt="FullAdder" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/43ca442d-f015-4028-8c2f-67a9d8ce0d32">
 
+<br />
 
+## Project 2.2
+### Add16 CHIP
+
+<img width="960" alt="Add16" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/5b38060d-8990-4a4d-a9d0-b49b32878a08">
+
+### Inc16 CHIP
+
+<img width="960" alt="Inc16" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/5a95f32c-9245-4827-9bbb-2e24d0851462">
+
+### ALU
+
+<img width="960" alt="ALU" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/df9c97f7-25f9-48f2-82bf-c995e132a51e">
