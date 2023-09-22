@@ -81,3 +81,21 @@
 
 <img width="960" alt="ram64" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/6409f7a9-51bb-4f50-a42b-3659a6ef3e3e">
 
+<br />
+
+## Project 3.2
+### RAM512 CHIP
+
+<img width="960" alt="ram512" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/b7e3d9d2-5988-444c-8740-2490ee531ee8">
+
+### RAM4K CHIP
+
+<img width="960" alt="ram4k" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/40206d2a-fab7-4244-b632-5f141bbd6c66">
+
+### RAM16K
+
+<img width="960" alt="ram16k" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/1b281014-7d31-441e-a644-8ea4b4493dfc">
+
+### PC CHIP
+
+<img width="960" alt="pc" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/aa598ec7-298a-4918-a69b-b8bbafae84de">
