@@ -61,3 +61,23 @@
 ### ALU
 
 <img width="960" alt="ALU" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/df9c97f7-25f9-48f2-82bf-c995e132a51e">
+
+<br />
+
+## Project 3.1
+### Bit CHIP
+
+<img width="960" alt="bit" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/ce410d9a-96d0-421c-b906-128e6a66e628">
+
+### Register CHIP
+
+<img width="960" alt="register" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/092b5cc5-6512-462e-9d74-df7868d0bd63">
+
+### RAM8 CHIP
+
+<img width="960" alt="ram8" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/391d6cb3-7c51-4be0-ac96-633172923a6c">
+
+### RAM64 CHIP
+
+<img width="960" alt="ram64" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/6409f7a9-51bb-4f50-a42b-3659a6ef3e3e">
+
