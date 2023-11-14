@@ -99,3 +99,10 @@
 ### PC CHIP
 
 <img width="960" alt="pc" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/aa598ec7-298a-4918-a69b-b8bbafae84de">
+
+
+## Project 4
+### Mult.asm
+
+<img width="960" alt="mult.asm" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/83e0b242-a841-4b4f-99a9-3e7e06ae8a6b">
+
