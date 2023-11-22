@@ -115,5 +115,11 @@
 
 <img width="960" alt="Screenshot 2023-11-22 172953" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/69054739-1496-4376-ad88-678a4f5da1c2">
 
+## Project 5.2
+### CPU.hdl
+
+<img width="960" alt="Screenshot 2023-11-22 181435" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/2086c851-3d1a-44a4-99d2-6645fbd1bd01">
+
+
 
 
