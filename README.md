@@ -120,6 +120,9 @@
 
 <img width="960" alt="Screenshot 2023-11-22 181435" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/2086c851-3d1a-44a4-99d2-6645fbd1bd01">
 
+## Project 6
+### Pong.asm
+<img width="960" alt="pong screenshot" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/07caeb4e-7564-4fcc-85f7-bee1f796a152">
 
 
 
