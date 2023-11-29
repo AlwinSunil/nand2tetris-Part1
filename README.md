@@ -125,6 +125,11 @@
 
 <img width="960" alt="computer hdl screenshot" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/1f778c11-41f3-44ae-8747-7825732b4450">
 
+## Project 5.4
+### Draw a Rectangle
+
+<img width="960" alt="Screenshot 2023-11-29 120516" src="https://github.com/AlwinSunil/nand2tetris-Part1/assets/64636626/37456d0f-be2b-4640-98ee-6f22a51cafc5">
+
 ## Project 6
 ### Pong.asm
 
